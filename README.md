@@ -1,0 +1,2 @@
+# Forex
+analise fundamentalista eurusd
